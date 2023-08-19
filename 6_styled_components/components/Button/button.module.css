@@ -1,0 +1,11 @@
+.root {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #333;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 15px;
+  transition: all 0.2s ease-in-out;
+}
